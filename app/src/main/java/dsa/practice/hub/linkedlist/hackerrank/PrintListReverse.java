@@ -1,7 +1,7 @@
 package dsa.practice.hub.linkedlist.hackerrank;
 
 // https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
-public class ReverseList {
+public class PrintListReverse {
 
     public static void reversePrint(SinglyLinkedListNode llist) {
         if (llist == null) {
