@@ -11,9 +11,6 @@ public class CompareTwiLinkedList {
             head1 = head1.next;
             head2 = head2.next;
         }
-        if (head1 != null || head2 != null) {
-            return false;
-        }
-        return true;
+        return head1 == head2;
     }
 }
