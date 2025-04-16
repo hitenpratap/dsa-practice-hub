@@ -2,6 +2,7 @@ package dsa.practice.hub.queue.hackerrank;
 
 import java.util.List;
 
+// https://www.hackerrank.com/challenges/truck-tour/problem
 public class TruckTour {
 
     public static int truckTour(List<List<Integer>> petrolPumps) {
